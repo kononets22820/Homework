@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
